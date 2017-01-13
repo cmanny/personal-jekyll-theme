@@ -30,9 +30,9 @@ force-https: True
 
 lang: "en"
 author: "Callum Mann"
-title: "Welcome"
-description: "null"
-keywords: "null, personal, jekyll, theme"
+title: "Callum Mann"
+description: "The face of Callum Mann"
+keywords: "callum, mann, cmanny, personal, technology"
 favicon: "/img/favicon.ico"
 
 ################
@@ -57,7 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Let's go for a walk"
 
-me-img: "/img/jetpacktocat.png"
+# me-img: "/img/jetpacktocat.png"
 
 ##############################
 # Color the browser elements #
