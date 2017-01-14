@@ -112,13 +112,14 @@ events:
   - #image: "/img/timeline/spidertocat.png"
     date: "2017"
     description: "Living my life"
+    image: "/img/timeline/whatnow.png"
   - image: "/img/timeline/uoblogo.png"
     date: "September 2013 - May 2017"
     description: "University of Bristol, student of Computer Science"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/elastic.png"
 
 ###########
 # Contact #
