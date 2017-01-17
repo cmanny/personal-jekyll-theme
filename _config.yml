@@ -49,13 +49,14 @@ background-img: "../img/rosemary.jpg"
 
 dynamic-typing: True
 shuffle: True # Shuffle the lines.
-loop: True
+loop: False
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 10
+type-speed: 0
 start-delay: 200
-delete-delay: 5000
+delete-delay: 0
 lines: # You can add HTML Tags in the Text
-  - text: "Let's go for a walk"
+  - text: "+[--->++<]>+.++[->++++<]>+.+++++++.---------.
+           ++++++++++++.--.--------.--[--->+<]>.[--->+<]>-."
 
 me-img: "/img/me.png"
 
