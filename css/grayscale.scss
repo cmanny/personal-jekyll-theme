@@ -231,6 +231,10 @@ a {
     }
 }
 
+.outline-border {
+  outline: 10px solid $secondary-color;
+}
+
 .content-section {
     margin-top: 100px;
     padding-top: 100px;
@@ -238,7 +242,6 @@ a {
         margin-top: 125px;
         padding-top: 125px;
     }
-    outline: 10px solid $secondary-color;
     /* Added in { Personal } for responsive images in posts and section contents */
     img {
         display: block;
